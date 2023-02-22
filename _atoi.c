@@ -1,5 +1,4 @@
 #include "shell.h"
-/* zinzinpolice/Nice22 */
 /**
  * interactive - returns true if shell is interactive mode
  * @info: struct address
