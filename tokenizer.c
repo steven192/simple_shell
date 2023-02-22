@@ -7,7 +7,7 @@
  * Return: a pointer to an array of strings, or NULL on failure
 */
 
-/* Nice22 @zinzinpolice */
+
 char **strtow(char *str, char *d)
 {
 	int i, j, k, m, numwords = 0;
