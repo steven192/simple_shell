@@ -1,5 +1,4 @@
 #include "shell.h"
-/* @zinzinpolice/Nice22 */
 /**
  * _myenv - prints the current environment
  * @info: Structure containing potential
