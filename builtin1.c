@@ -1,5 +1,4 @@
 #include "shell.h"
-/* @zinzinpolice/Nice22 */
 /**
  * _myhistory - displays the history list,
  * one command by line, preceded with line
