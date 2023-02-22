@@ -1,5 +1,4 @@
 #include "shell.h"
-/* @zinzinpolice/Nice22 */
 /**
  * _myexit - exits the shell
  * @info: Structure containing potential arguments. Used to maintain
