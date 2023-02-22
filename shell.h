@@ -11,7 +11,6 @@
 #include <limits.h>
 #include <fcntl.h>
 #include <errno.h>
-/* @zinzinpolice/Nice22 */
 /* for read/write buffers */
 #define READ_BUF_SIZE 1024
 #define WRITE_BUF_SIZE 1024
