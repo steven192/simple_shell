@@ -1,5 +1,4 @@
 #include "shell.h"
-/* @zinzinpolice/Nice22 */
 /**
  * _eputs - prints an input string
  * @str: the string to be printed
